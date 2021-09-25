@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+A custom Map written in React. 
 
 ## Available Scripts
 
@@ -38,6 +39,30 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+### `Features`
+* Some default location
+* Custom icons
+* Search addresses
+* Add and save new location
+* Remove location
+* Favorite location
+* Direction to nearest location
+# Usage
+#### `Custom icons`
+[![custom-icons.png](https://i.postimg.cc/VLRc7g1Z/custom-icons.png)](https://postimg.cc/Mvv4Hyn1)
+#### `Search addresses`
+[![search.png](https://i.postimg.cc/66M0Y4gL/search.png)](https://postimg.cc/LhZLs5Hn)
+#### `Add new location`
+[![save-new-position.png](https://i.postimg.cc/sDZh7Br2/save-new-position.png)](https://postimg.cc/0bPjqyrg)
+#### `Location items`
+[![location-items.png](https://i.postimg.cc/pdVQf2C1/location-items.png)](https://postimg.cc/bZM28fKQ)
+#### `Direction to nearest location`
+[![direction-to-new-position.png](https://i.postimg.cc/HkzXsqm0/direction-to-new-position.png)](https://postimg.cc/4YKmWFmn)
+# Technologies
+* [React](https://reactjs.org/)
+* [OpenStreetMap](https://www.openstreetmap.org/)
+* [React Leaflet](https://react-leaflet.js.org/)
 
 ## Learn More
 
