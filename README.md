@@ -1,5 +1,5 @@
 # Map in React
-A custom Map written in React.
+A custom Map written in React. You can find files on master branch.
 ### Features
 * Some default location
 * Custom icons
