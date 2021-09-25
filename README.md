@@ -1,6 +1,7 @@
 # Map in React
 A custom Map written in React. You can find files on master branch.
-### Features
+
+### `Features`
 * Some default location
 * Custom icons
 * Search addresses
@@ -9,15 +10,15 @@ A custom Map written in React. You can find files on master branch.
 * Favorite location
 * Direction to nearest location
 # Usage
-#### Custom icons
+#### `Custom icons`
 [![custom-icons.png](https://i.postimg.cc/VLRc7g1Z/custom-icons.png)](https://postimg.cc/Mvv4Hyn1)
-#### Search addresses
+#### `Search addresses`
 [![search.png](https://i.postimg.cc/66M0Y4gL/search.png)](https://postimg.cc/LhZLs5Hn)
-#### Add new location
+#### `Add new location`
 [![save-new-position.png](https://i.postimg.cc/sDZh7Br2/save-new-position.png)](https://postimg.cc/0bPjqyrg)
-#### Location items
+#### `Location items`
 [![location-items.png](https://i.postimg.cc/pdVQf2C1/location-items.png)](https://postimg.cc/bZM28fKQ)
-#### Direction to nearest location
+#### `Direction to nearest location`
 [![direction-to-new-position.png](https://i.postimg.cc/HkzXsqm0/direction-to-new-position.png)](https://postimg.cc/4YKmWFmn)
 # Technologies
 * [React](https://reactjs.org/)
